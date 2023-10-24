@@ -1,0 +1,151 @@
+Initializing new game with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - vanillaexpanded.backgrounds
+  - UnlimitedHugs.HugsLib
+  - praedon.adjustarchonexus
+  - Bart.APP
+  - MYDE.AerocraftFramework
+  - smallmine.PlantSide2NSAircraft
+  - UnlimitedHugs.AllowTool
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - vanillaracesexpanded.android
+  - sarg.alphagenes
+  - VanillaExpanded.VPsycastsE
+  - OskarPotocki.VFE.Classical
+  - OskarPotocki.VFE.Mechanoid
+  - sarg.alphamechs
+  - JangoDsoul.Archotech.PowerArmor
+  - nephlite.advexplosions
+  - automatic.bionicicons
+  - brrainz.cameraplus
+  - PeteTimesSix.CompactHediffs
+  - spincrus.dinosauria
+  - Dubwise.DubsBadHygiene
+  - Dubwise.DubsCentralHeating
+  - Dubwise.Rimatomics
+  - Sea.FemboyGene
+  - Owlchemist.MidSaverSaver
+  - Taranchuk.MoreArchotechGarbageContinued
+  - TwoPenny.PortraitsOfTheRim
+  - DimonSever000.ProsthesesPlus13.Specific
+  - K.PsiTech
+  - DimonSever000.PsionicPlus.Specific
+  - hlx.ReinforcedMechanoids2
+  - Mlie.RemoteTech
+  - Acruid.RepairBench
+  - Cabbage.RimCities
+  - rimfridge.kv.rw
+  - Jaxe.RimHUD
+  - sindre0830.universum
+  - sindre0830.rimnauts2
+  - rupal.rimpymodmanagerdatabase
+  - Dubwise.Rimefeller
+  - SmashPhil.VehicleFramework
+  - sickboywi.rimhammer.steamtanks
+  - Murmur.WallLight
+  - kentington.saveourship2
+  - roolo.SearchAndDestroy
+  - sarg.smartspeed
+  - smashphil.srtsexpanded
+  - Azazellz.TransportShuttle14
+  - caaz.typhon
+  - VanillaExpanded.VanillaAnimalsExpanded
+  - VanillaExpanded.VAECaves
+  - VanillaExpanded.VAERoy
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.BaseGeneration
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VPlantsEMore
+  - VanillaExpanded.VPlantsESucculents
+  - VanillaExpanded.VPE.Puppeteer
+  - vanillaracesexpanded.customicons
+  - vanillaracesexpanded.genie
+  - vanillaracesexpanded.highmate
+  - vanillaracesexpanded.hussar
+  - vanillaracesexpanded.phytokin
+  - vanillaracesexpanded.sanguophage
+  - vanillaracesexpanded.waster
+  - vanillaexpanded.storytellers.rick
+  - OskarPotocki.VanillaVehiclesExpanded
+  - OskarPotocki.VanillaVehiclesExpandedTier3
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VWEHW
+  - VanillaExpanded.VWEQ
+  - OskarPotocki.VanillaFactionsExpanded.SettlersModule
+  - VanillaExpanded.VWEFT
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VWEMS
+  - VanillaExpanded.VWETB
+  - FunkyShit.Mods.WorldEdit
+  - RH.DOOM
+  - RH2.Faction.Bounty.Hunters
+  - RH2.Faction.Task.Force.141
+  - RH2.Faction.Rangers
+  - RH2.Faction.Utilitarian
+  - RH2.Faction.VOID
+  - RH2.VOID.Storyteller
+  - syrchalis.setupcamp
+  - rim.job.world
+  - VanillaExpanded.VGeneticsE
+  - co.uk.epicguru.meleeanimation
+  - IH.Clean.Textures
+  - OskarPotocki.VFE.Vikings
+  - OskarPotocki.VFE.Empire
+  - OskarPotocki.VanillaFactionsExpanded.MedievalModule
+  - OskarPotocki.VFE.Deserters
+  - OskarPotocki.VFE.Pirates
+  - VanillaExpanded.VFEA
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+(wrapper dynamic-method) Verse.Game:Verse.Game.InitNewGame_Patch2 (Verse.Game)
+Verse.Root_Play/<>c:<Start>b__1_2 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+ShallowReservoirSeed == 0 Regenerating seeds
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Rimefeller.MapComponent_Rimefeller:FinalizeInit ()
+Verse.MapComponentUtility:FinalizeInit (Verse.Map)
+(wrapper dynamic-method) Verse.Map:Verse.Map.FinalizeInit_Patch2 (Verse.Map)
+(wrapper dynamic-method) Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch5 (Verse.IntVec3,RimWorld.Planet.MapParent,Verse.MapGeneratorDef,System.Collections.Generic.IEnumerable`1<Verse.GenStepWithParams>,System.Action`1<Verse.Map>)
+(wrapper dynamic-method) Verse.Game:Verse.Game.InitNewGame_Patch2 (Verse.Game)
+Verse.Root_Play/<>c:<Start>b__1_2 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Exception from asynchronous event: System.NullReferenceException: Object reference not set to an instance of an object
+  at VFECore.MapGenerator_GenerateMap_Patch+<>c__DisplayClass2_0.<DoMapSpawns>b__0 (VFECore.ObjectSpawnsDef element) [0x00011] in <7f814a856cf545d88269fdb773e8246e>:0 
+  at System.Linq.Enumerable+WhereListIterator`1[TSource].MoveNext () [0x00037] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at VFECore.MapGenerator_GenerateMap_Patch.DoMapSpawns (Verse.Map map) [0x002d0] in <7f814a856cf545d88269fdb773e8246e>:0 
+  at VFECore.MapGenerator_GenerateMap_Patch.Postfix (Verse.Map __result) [0x00001] in <7f814a856cf545d88269fdb773e8246e>:0 
+  at (wrapper dynamic-method) Verse.MapGenerator.Verse.MapGenerator.GenerateMap_Patch5(Verse.IntVec3,RimWorld.Planet.MapParent,Verse.MapGeneratorDef,System.Collections.Generic.IEnumerable`1<Verse.GenStepWithParams>,System.Action`1<Verse.Map>)
+  at (wrapper dynamic-method) Verse.Game.Verse.Game.InitNewGame_Patch2(Verse.Game)
+  at Verse.Root_Play+<>c.<Start>b__1_2 () [0x00011] in <446267b72ea8432286db63aecc70cf59>:0 
+  at Verse.LongEventHandler.RunEventFromAnotherThread (System.Action action) [0x00008] in <446267b72ea8432286db63aecc70cf59>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) Verse.Log:Verse.Log.Error_Patch1 (string)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
